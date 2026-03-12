@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+
+Welcome to FLow Theory AI's organization on GitHub where we love all things open source.
 
 <!--
 
