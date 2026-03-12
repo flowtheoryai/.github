@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to FLow Theory AI's organization on GitHub where we love all things open source.
+Welcome to Flow Theory AI's organization on GitHub where we love all things open source.
 
 <!--
 
